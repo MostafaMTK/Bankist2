@@ -1,7 +1,7 @@
 # Bankist2
 A Demo Bank Advertisement Website Application on JavaScript
 # For Live Demo 
-bankist2-mostafatk.netlify.app <br>
+https://bankist2-mostafatk.netlify.app <br>
 OR <br>
 https://mostafamtk.github.io/Bankist2/
 # --------------------------------- 
